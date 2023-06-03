@@ -1,0 +1,47 @@
+Edad,Volumen contraste,Posición uterina,Dia del ciclo,Permeabilidad tubaria,Patologia en cavidad,Tiempo esterilidad (meses),Paridad,EVA
+36,4,anteflexión,11,2,no,24,0,5
+33,10,anteflexión,8,2,no,42,G1P1,1
+36,5,anteflexión,7,2,no,24,0,2
+34,10,anteflexión,7,2,no,11,0,5
+32,10,anteflexión,8,2,si,36,0,3
+37,10,anteflexión,9,2,si,20,0,5
+32,5,anteflexión,8,2,no,12,0,0
+32,3,anteflexión,8,2,no,18,0,2
+30,5,anteflexión,9,2,no,24,G3 A2  P1 ,1
+31,10,anteflexión,9,2,si,12,0,2
+35,5,retroflexión,12,2,no,8,0,2
+30,5,retroflexión,10,2,no,18,0,3
+33,10,anteflexión,10,Unilateral (derecha),si,18,0,0
+32,6,anteflexión,9,2,no,18,G2A2,3
+35,5,retroflexión,11,2,no,24,0,3
+31,5,anteflexión,7,2,no,17,G1A1,2
+26,5,retroflexión,8,2,no,12,0,0
+31,6,retroflexión,11,2,no,14,0,0
+32,10,anteflexión,10,2,si,12,0,5
+35,10,anteflexión,10,2,no,18,0,0
+32,10,anteflexión,9,2,no,17,0,2
+35,2,anteflexión,8,2,no,24,0,0
+37,6,anteflexión,9,2,no,18,0,2
+37,6,anteflexión,8,2,si,24,0,0
+36,5,anteflexión,9,2,si,36,0,1
+37,6,anteflexión,8,2,no,12,0,3
+33,5,anteflexión,8,2,no,24,0,2
+31,10,anteflexión,7,2,no,60,0,2
+35,10,anteflexión,9,Permeabilidad tubárica unilateral derecha.,si,12,G1A1,3
+32,2,anteflexión,10,2,no,13,0,2
+32,5,anteflexión,8,2,si,18,G1A1,0
+28,7,anteflexión,8,2,no,12,0,5
+37,6,anteflexión,7,2,no,12,0,2
+29,10,anteflexión,11,Unilateral (derecha),no,24,0,7
+34,5,anteflexión,11,2,no,12,0,3
+28,8,anteflexión,8,2,no,12,0,3
+35,10,anteflexión,8,2,no,12,0,3
+32,7,anteflexión,9,2,no,12,0,2
+33,10,anteflexión,7,2,no,14,0,2
+38,5,anteflexión,8,2,si,,0,1
+32,5,antefelxión,8,2,no,,0,0
+34,5,anteflexión,10,2,no,,0,0
+37,10,anteflexión,11,1(derecha),no,,G1P1,2
+33,4,antefelxión,7,2,no,12,0,1
+36,2,anteflexión,10,2,no,,0,0
+37,2,anteflexión,10,2,no,,0,3
